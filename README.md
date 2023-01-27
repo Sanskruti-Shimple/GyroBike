@@ -1,24 +1,36 @@
-# GyroBike
-A first sem capstone project of group Q12
+# GyroBike:- A first sem capstone project of group Q12
 
 1) Home Page
-![image](https://user-images.githubusercontent.com/84955646/215035511-d99597f5-7a3a-4a70-b8e9-18824a1708db.png)
-![image](https://user-images.githubusercontent.com/84955646/215035568-c6dbebd2-4f5d-4df7-aa13-d43918b9a074.png)
-![image](https://user-images.githubusercontent.com/84955646/215035628-c604c64f-4d48-4c65-8c99-24cc845b872b.png)
-![image](https://user-images.githubusercontent.com/84955646/215035679-164dea00-30ba-403e-8323-6bb3a51f4cd7.png)
-![image](https://user-images.githubusercontent.com/84955646/215035725-01e6b17d-9ac1-446f-8f56-50ceb9a4d168.png)
+
+![image](https://user-images.githubusercontent.com/84955646/215036696-c81fc37e-8c9a-4422-a586-7fdfba851fdc.png)
+![image](https://user-images.githubusercontent.com/84955646/215036808-eadf80c2-0701-48aa-a025-d0fba24add09.png)
+![image](https://user-images.githubusercontent.com/84955646/215036924-1d600e87-1549-4889-b08b-df135eadd092.png)
+
 
 2) Our Project
-![image](https://user-images.githubusercontent.com/84955646/215035816-71e855b1-a5c5-4016-87c5-7b17b00e3940.png)
-![image](https://user-images.githubusercontent.com/84955646/215036023-fa1ed091-40db-49ac-bef5-467d07af2c08.png)
-![image](https://user-images.githubusercontent.com/84955646/215036082-d3c8f2ca-4494-4136-998c-bf9ef6984def.png)
-![image](https://user-images.githubusercontent.com/84955646/215036167-c9cd0606-f69e-4cf0-8122-c3e3c4c4b3f1.png)
+
+![image](https://user-images.githubusercontent.com/84955646/215037124-2ee00745-a993-476c-b28e-ce6fcc30d7ed.png)
+![image](https://user-images.githubusercontent.com/84955646/215037193-2c635b47-e8b1-4fda-bad0-cb04a474e19f.png)
+![image](https://user-images.githubusercontent.com/84955646/215037308-561b56b8-5ecd-4260-9ab6-de331cdf86d0.png)
+![image](https://user-images.githubusercontent.com/84955646/215037393-941a5a00-fe76-45ed-beea-402b9a28625d.png)
+
 
 3) About Us
-![image](https://user-images.githubusercontent.com/84955646/215036256-aaa55ebb-e9d4-49d1-b52e-367d049f92ec.png)
-![image](https://user-images.githubusercontent.com/84955646/215036310-2ca5ce25-c442-4d58-af6c-eb9b4f1fd046.png)
-![image](https://user-images.githubusercontent.com/84955646/215036350-b8332671-1515-4acf-8d1e-c46d8bca3742.png)
-![image](https://user-images.githubusercontent.com/84955646/215036397-21554a3f-062b-4d11-a2e6-0044627e7ef4.png)
-![image](https://user-images.githubusercontent.com/84955646/215036449-06f05bb8-802b-4f5b-879c-93d8d41f9557.png)
-![image](https://user-images.githubusercontent.com/84955646/215036492-c4343841-b303-43d2-862f-a55c751da752.png)
+
+![image](https://user-images.githubusercontent.com/84955646/215037521-ef2952a7-09b0-4d95-b8f7-9017f4f386af.png)
+![image](https://user-images.githubusercontent.com/84955646/215037602-27da71d6-bdac-4b9a-87ce-4ca871005ee3.png)
+![image](https://user-images.githubusercontent.com/84955646/215037681-12c47be8-7de1-487d-984e-eb6c134cda8d.png)
+![image](https://user-images.githubusercontent.com/84955646/215037789-05313227-f96e-409f-99be-17e2ebb801f8.png)
+![image](https://user-images.githubusercontent.com/84955646/215037864-0b07ae8f-f139-4ec2-9244-7fcd299a5c0d.png)
+
+
+3) Connect Us
+
+![image](https://user-images.githubusercontent.com/84955646/215038020-823701bc-9ac3-4e95-b047-4101434f795f.png)
+
+
+
+
+
+
 
