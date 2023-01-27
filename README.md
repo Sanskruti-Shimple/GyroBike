@@ -1,4 +1,4 @@
-# GyroBike:- A first sem capstone project of group Q12
+# GyroBike:- A First Semester Capstone Project Of Group Q12
 
 1) Home Page
 
