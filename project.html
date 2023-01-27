@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <link href="./styles.css" rel="stylesheet">
+    <script src="app.js"></script>
+    <title>Project | GyroBike</title>
+</head>
+
+<body>
+    <div class="container">
+
+    <div class="navbar">
+
+        <nav>
+            <ul id="menu-list">
+                <li><a href="index.html"><b>Home</b></a></li>
+                <li><a href="project.html"><b>Our project</b></a></li>
+                <li><a href="aboutus.html"><b>About us</b></a></li>
+            </ul>
+        </nav>
+        <img src="images/menu.png" class="menu" onclick="togglemenu()">
+    </div><br>
+    <hr>
+
+
+    <h1 style="text-align: center; width: 100%; ">Our 3-D Project</h1>
+
+    <img class="gif" src="images/3d-gif .gif">
+
+
+    <div class="flexbox-1">
+        <div class="container-2">
+            <h2>The Reason: </h2>
+            So we from the FY decided to do some adventerous project and make something
+            that would make everyones jaw drop, so we thought we should help our socity too.
+            we pondered and got to the conclusion of helping handicapped teenagers/olders who never
+            got a chance to ride a two wheeler bike. 
+            the knowledge we had about physics (thank you sir) we thought of building 
+            a bike that would stabalize itself and help to ride it without any disbalance.
+        </div>
+        
+    </div>
+    <div class="flexbox-1">
+        <div class="container-2">
+            <h2>The Procedure: </h2>
+             Our Groupwas on it. we were furious about the project, the desire was impecible.
+             we distributed our work and starting working. the basic starting was of by the principle on which it should work.
+             the theory and important concepts like rotaional motion, conservation of linear and angular 
+             momentum, torque, force needed, the torque to weight ratio. all were under our fingers.
+             we implimented it practiacally and was succsessfully done with the stabalization parts.
+             the website was also simultaneously been made and help us to get through this four wall,
+             and get our project to be seen by others too. And also it helped to schowcase our project in the Covid situation.
+
+             
+        </div>
+        
+    </div>
+
+    <div class="flexbox-1">
+        <div class="container-2">
+            <h2>Componenets and Technology used: </h2>
+            <h4>For the bike:</h4> 
+            12V battery, high rpm DC motor, low rpm high torque DC motor, flywheel(disk), wheels, wooden parts-for body structure, connecting wires.
+            <h4>For the website:</h4>
+            HTML-5, CSS-3, JavaScript- for responsiveness
+            <h4>Principle: </h4>
+            conservation of angular mommentum, rate of change of angular momentum, gyroscopic torque due to spinning wheel.
+        </div>
+        
+    </div>
+
+    <h2 style="text-align: center;">slide show of the model</h2>
+
+    <div class="slideshow">
+    <img class="mySlides" style="height:40%;" src="images/model-1.jpeg">
+    <img class="mySlides" src="images/model-2.jpeg">
+    <img class="mySlides" style="height: 40%;" src="images/model-3.jpeg">
+    <img class="mySlides" src="images/model-5.jpeg">
+    <img class="mySlides" src="images/model-4.jpeg">
+
+    </div>
+
+    <button class="w3-button w3-display-left slideshow" style="padding:-4px;" onclick="plusDivs(-1)">&#10094;</button>
+    <button class="w3-button w3-display-right slideshow" onclick="plusDivs(+1)">&#10095;</button>
+    </div>
+    
+
+    <br><br>
+    <div class="flexbox-1">
+        <div class="container-2">
+            <h2>Conclusion and teachings:  </h2>
+             Group was capable and was able to make a working model which stabalizes it self and 
+             also the website for showcasing the work and hosting it to the world of net for everyone.
+             everyone learned and implimented new things and teachings from the past.
+            
+             
+        </div>
+        
+    </div>
+
+
+
+    <footer class="footer"><div style="padding-top: 1rem;">Connect to us</div>
+        <hr style="height: 2px; color: white; max-width: 1750px;">
+    <div class="flex-footer">
+        
+        <div class="left-content">
+            <img class="vit-img" src="images/vit-logo.png">
+            <br>
+            <div class="under-logo" style="margin-left: 6rem;">Students of VISHWAKARMA INSTITUTE OF TECHNOLOGY, PUNE</div>
+            <hr style="height: 2px; color: white; max-width: 660px;">
+        </div>
+        <div  class="right-content">
+            <ol>
+                <li>Mohiddin Shikalgar</li>
+                <li>Sanskruti Shimple</li>
+                <li>Aryan Shinde</li>
+                <li>Chetan Shinde</li>
+                <li>Gayatri Shinde</li>
+            </ol>
+            <hr style="height: 2px; color: white; max-width: 800px;">
+            <span class="right-content">web- developed by: Aryan Shinde</span>
+        </div>
+        
+    </div>
+    
+    </footer>
+    
+
+
+
+
+
+
+
+
+    <script src="app.js"></script>
+
+    <!-- <script>
+
+        var menulist = document.getElementById("menu-list");
+        menulist.style.maxHeight = "0px";
+
+        function togglemenu() {
+            if (menulist.style.maxHeight == "0px") {
+                menulist.style.maxHeight = "225px"
+            } else {
+                menulist.style.maxHeight = "0px"
+            }
+        }
+        var slideIndex = 1;
+        showDivs(slideIndex);
+
+        function plusDivs(n) {
+            showDivs(slideIndex += n);
+        }
+
+        function showDivs(n) {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            if (n > x.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = x.length
+            };
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            x[slideIndex - 1].style.display = "block";
+        }
+    </script> -->
+
+</body>
+
+</html>
